@@ -41,11 +41,11 @@ async def init():
     await userbot.start()
     await PROF.start()
     await PROF.decorators()
-    LOGGER("PROFESSOR").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 @𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥_𝗦𝗢𝗨𝗥𝗔𝗕𝗛♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("PROFESSOR").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 @𝐇𝐄𝐀𝐑𝐓𝐋𝐄𝐒𝐒♨️️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("PROFESSOR").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 @𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥_𝗦𝗢𝗨𝗥𝗔𝗕𝗛♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("PROFESSOR").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 @𝐇𝐄𝐀𝐑𝐓𝐋𝐄𝐒𝐒♨️️\n╚═════ஜ۩۞۩ஜ════╝")
 
 
 if __name__ == "__main__":
