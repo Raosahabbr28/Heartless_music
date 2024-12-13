@@ -4,7 +4,7 @@ from PROFESSOR import app
 from config import BOT_USERNAME
 
 start_txt = """
-❥ ωєℓ¢σмє тσ тєαм ɾιყα 
+❥ ωєℓ¢σмє тσ тєαм legend
 
 ❥ ʀᴇᴘᴏ ᴄʜᴀᴀʜɪʏʀ ᴛᴏ ʙᴏᴛ ᴋᴏ 
 
@@ -23,24 +23,24 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("♡ α∂∂ иσω ♡", url=f"https://t.me/RiyaXmusicbot?startgroup=true")
+          InlineKeyboardButton("♡ α∂∂ иσω ♡", url=f"https://t.me/heartless_musicc_bot?startgroup=true")
         ],
         [
           InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/KSDHEROKUCC"),
-          InlineKeyboardButton("⌯꯭ 𝐇꯭ ꯭ꭎ ꯭η ꯭𝗍 𝛆꯭ ʀ ꯭🥂꯭ 𝗫꯭ ꯭ᴅ ", url="https://t.me/ll_hunter_lll"),
+          InlineKeyboardButton("🦋⃟ 🇭𝙴𝙰𝚁𝚃𝙻𝙴𝚂𝚂🦋⃟ ", url="https://t.me/raosahab_br28"),
           ],
                [
-                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/Ksd_bot_network"),
+                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/Ksd_bot_network/347"),
 ],
 [
-InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/RiyaXmusicbot"),
+InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/heartless_musicc_bot"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/ltwmch.jpg",
+        photo="https://files.catbox.moe/459rhe.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
