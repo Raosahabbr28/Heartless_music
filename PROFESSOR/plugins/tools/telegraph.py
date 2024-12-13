@@ -58,7 +58,7 @@ async def get_link_group(client, message):
                         [
                             [
                                 InlineKeyboardButton(
-                                    " ᴘσɯҽɾҽԃ Ⴆყ ɾιყα ɱυʂιƈ ",
+                                    " 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐨𝐟 𝐓𝐞𝐚𝐦 𝐀𝐉",
                                     url=upload_path,
                                 )
                             ]
