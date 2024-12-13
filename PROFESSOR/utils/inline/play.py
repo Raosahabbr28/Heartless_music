@@ -71,8 +71,8 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/{app.username}?startgroup=true",)
         ],
         [
-            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KSD_BOT_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/Team_riya_support",),
+            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/ajisbackk",),
+            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/+u3DwUTVSvu9lNTE1",),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
@@ -89,8 +89,8 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/KSD_BOT_NETWORK",),
-            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/Team_riya_support",),
+            InlineKeyboardButton(text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url="https://t.me/ajisbackk",),
+            InlineKeyboardButton(text="✭ sᴜᴘᴘᴏʀᴛ ❥", url="https://t.me/+u3DwUTVSvu9lNTE1",),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
