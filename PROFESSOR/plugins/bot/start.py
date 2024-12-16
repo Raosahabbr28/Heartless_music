@@ -28,16 +28,16 @@ from strings import get_string
 
 
 NEXI_VID = [
-"https://files.catbox.moe/dkzbog.jpg",
-"https://files.catbox.moe/d5jqi0.jpg",
-"https://files.catbox.moe/y8asn4.jpg",
-"https://files.catbox.moe/9ixc8n.jpg",
-"https://files.catbox.moe/8ye535.jpg",
-"https://files.catbox.moe/q2fviy.jpg",
-"https://files.catbox.moe/d5jqi0.jpg",
-"https://files.catbox.moe/htyp2z.jpg",
-"https://files.catbox.moe/htyp2z.jpg",
-"https://files.catbox.moe/8ye535.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
+"https://files.catbox.moe/9y13df.jpg",
 
 ]
 
